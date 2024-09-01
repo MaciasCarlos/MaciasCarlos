@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Carlos! <br/><a href="https://www.linkedin.com/in/macias-carlos/">IT Technician</a>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/MaciasCarlos/LABURL)
+  - [Hello World](https://github.com/MaciasCarlos/LABURL)
+
+<h2> Certifications </h2>
+
+- [Google IT Support Professional](https://www.credly.com/badges/d8b9d350-0e1d-4712-aec4-f4b7a4400e6f/linked_in_profile)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/CarlosMacias-0015/BEAD08FE8113CB47?sharingId)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="CarlosMacias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/macias-carlos
 
 <!--
-**MaciasCarlos/MaciasCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
