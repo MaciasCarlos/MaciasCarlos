@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/MaciasCarlos/LABURL)
-  - [Hello World](https://github.com/MaciasCarlos/LABURL)
+  - [Active Directory Home Lab](https://github.com/MaciasCarlos/ActiveDirectoryLab)
+  - [Hello World](https://github.com/MaciasCarlos/ActiveDirectoryLab)
 
 <h2> Certifications </h2>
 
