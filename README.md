@@ -1,4 +1,4 @@
-<h1>Hi, I'm Carlos! <br/><a href="https://www.linkedin.com/in/macias-carlos/">IT Technician</a>
+<h1>Hi, I'm Carlos! 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
